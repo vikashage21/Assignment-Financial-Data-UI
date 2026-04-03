@@ -7,6 +7,9 @@ It also allows users to add the latest year financial data dynamically.
 
 ---
 
+## 🔗 Project link 
+https://assignment-fenoscale.netlify.app/
+
 ## 🚀 Features
 
 * Display financial data in table format
